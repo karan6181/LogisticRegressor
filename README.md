@@ -2,7 +2,7 @@
 
 ### Problem Statement:
 
-Implement and test a single logistic regressor.
+Implement and test a single Logistic Regressor.
 
 ### Description:
 
